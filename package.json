@@ -3,6 +3,7 @@
     "displayName": "jupyter-theme",
     "description": "A colour theme based around Jupyter and Kaggle.",
     "publisher": "sam-the-programmer",
+    "icon": "resources/icon.png",
     "version": "0.0.1",
     "repository": "https://github.com/sam-the-programmer/vscode-jupyter-theme",
     "engines": {
