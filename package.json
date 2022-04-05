@@ -1,0 +1,26 @@
+{
+    "name": "jupyter-theme",
+    "displayName": "jupyter-theme",
+    "description": "A colour theme based around Jupyter and Kaggle.",
+    "publisher": "sam-the-programmer",
+    "version": "0.0.1",
+    "repository": "https://github.com/sam-the-programmer/vscode-jupyter-theme",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes",
+        "Data Science",
+        "Machine Learning",
+        "Notebooks"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jupyter Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Jupyter Theme-color-theme.json"
+            }
+        ]
+    }
+}
