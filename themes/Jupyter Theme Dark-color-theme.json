@@ -1,9 +1,9 @@
 {
 	"name": "Jupyter Theme",
-	"type": "light",
+	"type": "dark",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333"
+		"editor.background": "#333333",
+		"editor.foreground": "#f5f5f5"
 	},
 	"tokenColors": [
 		{
@@ -56,7 +56,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#008100",
+				"foreground": "#1bae1b",
 				"fontStyle": "bold"
 			}
 		},
@@ -86,7 +86,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#008100"
+				"foreground": "#0aa361"
 			}
 		},
 		{
@@ -96,7 +96,7 @@
 				"support.variable",
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#da2bdd"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#68482d"
+				"foreground": "#41adec"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#00f"
+				"foreground": "#6868f3"
 			}
 		},
 		{
@@ -140,7 +140,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#396694"
+				"foreground": "#72b6fb"
 			}
 		},
 		{
@@ -192,7 +192,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#252525"
+				"foreground": "#dfd5d5"
 			}
 		},
 		{

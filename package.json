@@ -1,11 +1,11 @@
 {
     "name": "jupyter-theme",
-    "displayName": "jupyter-theme",
+    "displayName": "Jupyter Theme",
     "description": "A colour theme based around Jupyter and Kaggle.",
     "publisher": "sam-the-programmer",
-    "icon": "resources/icon.png",
-    "version": "0.0.1",
     "repository": "https://github.com/sam-the-programmer/vscode-jupyter-theme",
+    "icon": "resources/icon.png",
+    "version": "0.1.2",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -21,6 +21,21 @@
                 "label": "Jupyter Theme",
                 "uiTheme": "vs",
                 "path": "./themes/Jupyter Theme-color-theme.json"
+            },
+            {
+                "label": "Jupyter Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jupyter Theme Dark-color-theme.json"
+            },
+            {
+                "label": "Jupyter Theme Light High Contrast",
+                "uiTheme": "hc-light",
+                "path": "./themes/High-Contrast-color-theme.json"
+            },
+            {
+                "label": "Jupyter Theme Dark High Contrast",
+                "uiTheme": "hc-black",
+                "path": "./themes/High-Contrast-dark-color-theme.json"
             }
         ]
     }
